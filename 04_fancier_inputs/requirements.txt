@@ -1,0 +1,4 @@
+boto3
+tqdm
+prompt_toolkit
+colorama
